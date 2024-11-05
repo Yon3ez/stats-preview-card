@@ -53,5 +53,5 @@ body {
 .image {
 	flex: 1;
 	background: url("Bitmap\ \(1\).png") center center;
-	filter: contrast(000080000000000000000000%);
+	filter: contrast(80%);
 }
